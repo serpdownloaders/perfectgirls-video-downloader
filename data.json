@@ -1,0 +1,225 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/perfectgirls-downloader",
+  "serply_link": "https://serp.ly/perfectgirls-downloader",
+  "app_name": "Perfectgirls Video Downloader",
+  "short_description": "Download & Save Perfectgirls Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Perfectgirls Downloader is a browser extension designed for users who want to save videos from Perfect Girls, a beauty-focused gallery showcase destination. The extension works with the site's distinctive /video/ / page structure, navigating through the embedded iframe playback layer to detect available media streams. It provides a straightforward way to export supported content as MP4 files.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/perfectgirls-downloader-fullscreen-01-5e2884a333.webp",
+    "https://apps.serp.co/media/optimized-products/perfectgirls-downloader-fullscreen-02-a39be8fe36.webp",
+    "https://apps.serp.co/media/optimized-products/perfectgirls-downloader-fullscreen-03-30d9d52a8a.webp",
+    "https://apps.serp.co/media/optimized-products/perfectgirls-downloader-fullscreen-04-5ca2fd5fb5.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Does this extension work on all Perfect Girls pages?",
+      "answer": "It is designed for video pages that follow the /video/ / route pattern and use an iframe for playback. Other page types may not be supported."
+    },
+    {
+      "question": "What video formats can I download?",
+      "answer": "The extension detects m3u8 and mp4 streams based on the available stream hints. The output is saved as MP4."
+    },
+    {
+      "question": "Is there a limit on how many videos I can download?",
+      "answer": "You get three free trial downloads. A paid license unlocks unlimited downloads."
+    },
+    {
+      "question": "Do I need to create an account?",
+      "answer": "Yes, you sign in with your email using a one-time password. No credit card is needed for the trial."
+    },
+    {
+      "question": "Can I use this extension on other websites?",
+      "answer": "No, Perfectgirls Downloader is built specifically for the Perfect Girls.xxx domain and its video page structure."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "This extension is built around the exact page structure Perfect Girls uses. It understands the /video// route pattern and knows to look for media within the embedded player layer. Rather than promising a fully polished extractor, Perfectgirls Downloader offers a grounded approach based on the stream hints available -- m3u8 and mp4 -- so you can save videos you have permission to keep with reasonable expectations."
+    },
+    {
+      "name": "",
+      "description": "Users who regularly browse Perfect Girls and want to save videos they have permission to keep"
+    },
+    {
+      "name": "",
+      "description": "Archiving content from a specific numeric video route you have permission to keep"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    },
+    {
+      "name": "",
+      "description": "Perfect Girls is a curated gallery-style video destination on the .xxx domain, known for its beauty-focused showcase presentation. The site uses a clean numeric route pattern for video pages and delivers playback through an embedded iframe layer, making Perfectgirls Downloader a useful companion for users who want to save content they have permission to keep."
+    }
+  ],
+  "features": [
+    "Perfect Girls-specific copy shaped around beauty, curation, and showcase presentation",
+    "Strong emphasis on the visible.xxx identity for search and brand recognition",
+    "Documentation centered on the numeric /video/ / route",
+    "iframe handoff explained as the main playback transition clue",
+    "m3u8 and mp4 retained as grounded stream indicators",
+    "Works with Perfect Girls.xxx video pages using the /video/ / route pattern",
+    "Detects media through the embedded iframe playback layer",
+    "Supports m3u8 and mp4 stream detection",
+    "Exports videos as MP4 files for broad compatibility",
+    "Clean popup interface for initiating downloads",
+    "Direct numeric video URL support for precise targeting",
+    "Three free trial downloads to test the workflow",
+    "Secure email sign-in with one-time password verification"
+  ],
+  "content": {
+    "why": [
+      "Perfect Girls is not a typical short-video or phone-first destination. It presents itself as a curated visual catalog with a polished gallery feel, set apart by its recognizable.xxx identity. The site uses a clean numeric route pattern for its video pages, which makes each page easy to identify and reference. However, the playback layer adds complexity — videos play through an embedded iframe, which can make direct saving difficult without the right tool.",
+      "This extension is built around the exact page structure Perfect Girls uses. It understands the /video/ / route pattern and knows to look for media within the embedded player layer. Rather than promising a fully polished extractor, Perfectgirls Downloader offers a grounded approach based on the stream hints available — m3u8 and mp4 — so you can save videos you have permission to keep with reasonable expectations."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Perfect Girls and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Open your browser and navigate to a Perfect Girls video page with a URL like ``.",
+      "Wait for the page to fully load and the embedded player to appear.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Allow the extension to scan the page for the iframe player and detect available media streams.",
+      "Review the detected stream options, which will typically show m3u8 or mp4 sources.",
+      "Select the quality or stream variant you wish to download.",
+      "Click the download button to begin the export process.",
+      "Once complete, save the MP4 file to your desired location."
+    ],
+    "supported_formats": [
+      "Input: m3u8 and mp4 streams detected through the iframe playback layer on Perfect Girls video pages",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Users who regularly browse Perfect Girls and want to save videos they have permission to keep",
+      "Collectors who prefer local copies of curated gallery-style content",
+      "Users who understand that playback moves through an embedded player layer",
+      "People who want a tool designed specifically for the Perfect Girls.xxx domain and route structure"
+    ],
+    "use_cases": [
+      "Saving a favorite video from a Perfect Girls gallery page for offline viewing",
+      "Archiving content from a specific numeric video route you have permission to keep",
+      "Building a local library of curated Perfect Girls showcase videos",
+      "Testing the download workflow with the three free trial downloads",
+      "Exporting m3u8 or mp4 streams from the embedded player layer"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the page. Make sure you are on a supported Perfect Girls video page with the /video/ / route pattern and that the embedded player has fully loaded.",
+      "The download fails or stops midway. Check your internet connection and ensure the stream source is still active. Some streams may have expiration windows.",
+      "The popup does not appear when I click the icon. Try refreshing the page and clicking the icon again. If the issue persists, reinstall the extension from the latest release.",
+      "I see an error about unsupported formats. The extension currently supports m3u8 and mp4 streams. If the page uses a different format, it may not be detectable.",
+      "The download starts but the file is corrupted. This can happen if the stream timed out during capture. Try the download again from the beginning."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Perfect Girls page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Perfect Girls uses an embedded iframe player, so playback must start before the extension can detect streams",
+      "The extension targets the numeric /video/ / route pattern and may not work on other page types"
+    ],
+    "about": [
+      "Perfect Girls is a curated gallery-style video destination on the.xxx domain, known for its beauty-focused showcase presentation. The site uses a clean numeric route pattern for video pages and delivers playback through an embedded iframe layer, making Perfectgirls Downloader a useful companion for users who want to save content they have permission to keep."
+    ]
+  },
+  "serpx_link": "https://serpx.link/perfectgirls-downloader",
+  "github_topics": [
+    "perfectgirls-download",
+    "perfectgirls-downloader",
+    "perfectgirls-video-downloader",
+    "perfectgirls-video-downloader-online",
+    "perfectgirls-video-downloader-mac",
+    "perfectgirls-video-downloader-window",
+    "perfectgirls-video-downloader-free",
+    "perfectgirls-video-downloader-extension",
+    "perfectgirls-video-downloader-app",
+    "perfectgirls-video-downloader-chrome",
+    "perfectgirls-video-downloader-from-url",
+    "how-to-download-perfectgirls-videos",
+    "how-to-download-perfectgirls-videos-mac",
+    "how-to-download-perfectgirls-videos-windows",
+    "how-to-download-perfectgirls-videos-online",
+    "how-to-download-perfectgirls-videos-free",
+    "how-to-download-from-perfectgirls",
+    "how-to-download-videos-from-perfectgirls",
+    "download-perfectgirls-videos",
+    "perfectgirls-video-tutorial",
+    "save-perfectgirls-videos",
+    "perfectgirls-video-content-saver",
+    "how-to-download-perfectgirls-videos-for-free"
+  ],
+  "hashtags": [
+    "#PerfectgirlsDownload",
+    "#PerfectgirlsDownloader",
+    "#PerfectgirlsVideoDownloader",
+    "#PerfectgirlsVideoDownloaderOnline",
+    "#PerfectgirlsVideoDownloaderMac",
+    "#PerfectgirlsVideoDownloaderWindow",
+    "#PerfectgirlsVideoDownloaderFree",
+    "#PerfectgirlsVideoDownloaderExtension",
+    "#PerfectgirlsVideoDownloaderApp",
+    "#PerfectgirlsVideoDownloaderChrome",
+    "#PerfectgirlsVideoDownloaderFromURL",
+    "#HowToDownloadPerfectgirlsVideos",
+    "#HowToDownloadPerfectgirlsVideosMac",
+    "#HowToDownloadPerfectgirlsVideosWindows",
+    "#HowToDownloadPerfectgirlsVideosOnline",
+    "#HowToDownloadPerfectgirlsVideosFree",
+    "#HowToDownloadFromPerfectgirls",
+    "#HowToDownloadVideosFromPerfectgirls",
+    "#DownloadPerfectgirlsVideos",
+    "#PerfectgirlsVideoTutorial",
+    "#SavePerfectgirlsVideos",
+    "#PerfectgirlsVideoContentSaver",
+    "#HowToDownloadPerfectgirlsVideosForFree"
+  ],
+  "youtube_tags": [
+    "Perfectgirls Download",
+    "Perfectgirls Downloader",
+    "Perfectgirls Video Downloader",
+    "Perfectgirls Video Downloader Online",
+    "Perfectgirls Video Downloader Mac",
+    "Perfectgirls Video Downloader Window",
+    "Perfectgirls Video Downloader Free",
+    "Perfectgirls Video Downloader Extension",
+    "Perfectgirls Video Downloader App",
+    "Perfectgirls Video Downloader Chrome",
+    "Perfectgirls Video Downloader From URL",
+    "How To Download Perfectgirls Videos",
+    "How To Download Perfectgirls Videos Mac",
+    "How To Download Perfectgirls Videos Windows",
+    "How To Download Perfectgirls Videos Online",
+    "How To Download Perfectgirls Videos Free",
+    "How To Download From Perfectgirls",
+    "How To Download Videos From Perfectgirls",
+    "Download Perfectgirls Videos",
+    "Perfectgirls Video Tutorial",
+    "Save Perfectgirls Videos",
+    "Perfectgirls Video Content Saver",
+    "How To Download Perfectgirls Videos For Free"
+  ]
+}
